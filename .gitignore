@@ -1,0 +1,22 @@
+# Go build
+/todo-api
+/todo-api.exe
+*.exe
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# Logs
+*.log
+
+# Docker artifacts
+db-data/
+*.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
