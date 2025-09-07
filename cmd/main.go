@@ -4,8 +4,8 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/shinichi.sunayama/todo-api/internal/config"
-	"github.com/shinichi.sunayama/todo-api/internal/handler"
+	"github.com/shinichi-sunayama/todo-api/internal/config"
+	"github.com/shinichi-sunayama/todo-api/internal/handler"
 )
 
 func main() {

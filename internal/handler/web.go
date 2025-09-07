@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/shinichi.sunayama/todo-api/internal/models"
+	"github.com/shinichi-sunayama/todo-api/internal/models"
 	"gorm.io/gorm"
 )
 
