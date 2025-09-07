@@ -1,4 +1,4 @@
-module github.com/shinichi.sunayama/todo-api
+module github.com/shinichi-sunayama/todo-api
 
 go 1.23.0
 
